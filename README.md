@@ -5,17 +5,9 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
 
 
 ### 🤝 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/bies">
-    <img align="center" src="https://github.com/HordeBies/HordeBies/assets/73644073/31475b8a-dfbb-495b-87f3-f6b381067646" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="mailto:oa.mehmetdmrc@gmail.com">
-    <img align="center" src="https://github.com/HordeBies/HordeBies/assets/73644073/7aad2717-3c8f-4c8a-96ee-f5dc1435eb14" alt="mail" height="50" width="50" />
-  </a>
-  <a href="https://hordebies.github.io/Bies/">
-    <img align="center" src="https://github.com/HordeBies/HordeBies/assets/73644073/f60dc234-0f5a-43d2-b84b-2e9fc9638b5f" alt="portfolio" height="40" width="40"/>
-  </a>
-</p>
+[<img alt="alt_text" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/31475b8a-dfbb-495b-87f3-f6b381067646" />](https://www.linkedin.com/in/bies)
+[<img alt="alt_text" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/7aad2717-3c8f-4c8a-96ee-f5dc1435eb14" />](mailto:oa.mehmetdmrc@gmail.com)
+[<img alt="alt_text" width="40" height="40" src="https://github.com/HordeBies/HordeBies/assets/73644073/f60dc234-0f5a-43d2-b84b-2e9fc9638b5f" />](https://hordebies.github.io/Bies/)
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -45,7 +37,7 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
   </a>
 </p>
 
-#### Tools & Libraries
+#### Tools & Libraries 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap,azure"/></a>
   <a><img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/portainer.svg" alt="portainer"/></a>
@@ -87,6 +79,9 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
   </a>
 </p>
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats <img align="right" src="https://komarev.com/ghpvc/?username=HordeBies&label=Views&color=2649b0&style=flat-square" alt="views" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HordeBies&bg_color=0d1117&text_color=c8cdd0&title_color=3366ff&hide_border=true&layout=compact&langs_count=10"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=HordeBies&show_icons=true&bg_color=0d1117&text_color=c8cdd0&title_color=3366ff&icon_color=3366ff&hide_border=true&hide_rank=true&hide=contribs"/>
+
+
+
