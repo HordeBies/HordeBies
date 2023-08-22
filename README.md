@@ -5,9 +5,9 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
 
 
 ### 🤝 Connect with me:
-[<img alt="alt_text" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/31475b8a-dfbb-495b-87f3-f6b381067646" />](https://www.linkedin.com/in/bies)
-[<img alt="alt_text" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/7aad2717-3c8f-4c8a-96ee-f5dc1435eb14" />](mailto:oa.mehmetdmrc@gmail.com)
-[<img alt="alt_text" width="40" height="40" src="https://github.com/HordeBies/HordeBies/assets/73644073/f60dc234-0f5a-43d2-b84b-2e9fc9638b5f" />](https://hordebies.github.io/Bies/)
+[<img alt="linkedin" width="50" height="50" src="https://skillicons.dev/icons?i=linkedin&theme=light" />](https://www.linkedin.com/in/bies)
+[<img alt="bies" width="50" height="50" src="https://hordebies.github.io/Bies/favicon.ico" />](https://hordebies.github.io/Bies/)
+<!--[<img alt="mail" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/7aad2717-3c8f-4c8a-96ee-f5dc1435eb14" />](mailto:oa.mehmetdmrc@gmail.com)-->
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
