@@ -60,7 +60,7 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
     <a><img width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/801b26dd-64e5-4d8f-b5b4-08bf8c2f0aff" alt="kibana"/></a>
     <a title="OpenTelemetry"><img width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b4bb0603-a63b-4b12-be8b-ec8b06db53c9" alt="opentelemetry"/></a>
     <a title="OpenID"><img width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/2b16fe29-d566-46eb-914a-c0b572957638" alt="openid"/></a>
-    <a title="Zipkin"><img width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b3fbc24e-b507-4b23-addb-03d9ecad957e" alt="zipkin"/></a>
+    <a><img title="Zipkin" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b3fbc24e-b507-4b23-addb-03d9ecad957e" alt="zipkin"/></a>
 </p>
 
 #### Databases
