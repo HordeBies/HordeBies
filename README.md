@@ -47,7 +47,7 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
     <a><img title="gRPC" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/02d1f5b3-b977-4a21-9e70-6f7b82eee126" alt="grpc"/></a>
     <a><img title="CQRS" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/89a7847b-28de-4a69-8079-008c11cee803" alt="cqrs"/></a>
     <a><img title="AutoMapper" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/d561e1b0-41ac-4b6a-8e05-e4f73979c77b" alt="automapper"/></a>
-    <a><img title="Seilog" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/8b64c1b5-24bd-4650-bc89-01d3f5c32380" alt="serilog"/></a>
+    <a><img title="Serilog" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/8b64c1b5-24bd-4650-bc89-01d3f5c32380" alt="serilog"/></a>
     <a><img title="Logstash" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b689248a-591f-4d6b-8c75-0657f113a785" alt="logstash"/></a>
     <a><img title="xUnit" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/2879e766-f35b-4706-925d-3ac88ada2942" alt="xunit"/></a>
     <a><img title="MassTransit" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/9143e34e-cad8-4070-96fd-34649d3b58b3" alt="masstransit"/></a>
@@ -61,6 +61,8 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
     <a><img title="OpenTelemetry" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b4bb0603-a63b-4b12-be8b-ec8b06db53c9" alt="opentelemetry"/></a>
     <a><img title="OpenID" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/2b16fe29-d566-46eb-914a-c0b572957638" alt="openid"/></a>
     <a><img title="Zipkin" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/b3fbc24e-b507-4b23-addb-03d9ecad957e" alt="zipkin"/></a>
+    <a><img title="Polly" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/eba35458-bddf-4608-beaa-9d1f6d58570e" alt="polly"/></a>
+    <a><img title="SignalR" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/dd5a0998-a7b7-45b3-8091-b1e46668117d" alt="signalr"/></a>
 </p>
 
 #### Databases
