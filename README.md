@@ -6,7 +6,7 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
 
 ### 🤝 Connect with me:
 [<img alt="linkedin" width="50" height="50" src="https://skillicons.dev/icons?i=linkedin&theme=light" />](https://www.linkedin.com/in/bies)
-[<img alt="bies" width="50" height="50" src="https://www.bies.one/favicon.ico" />](https://hordebies.github.io/Bies/)
+[<img alt="bies" width="50" height="50" src="https://www.bies.one/favicon.ico" />](https://www.bies.one)
 <!--[<img alt="mail" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/7aad2717-3c8f-4c8a-96ee-f5dc1435eb14" />](mailto:oa.mehmetdmrc@gmail.com)-->
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
