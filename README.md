@@ -14,13 +14,13 @@ While my academic foundation lies in computer engineering, I'm always seeking wa
 
 ## 🔭 I'm currently working on
 
--   Microservices
--   DevOps
+-   .NET & React
+-   Image Recognition
 
 ## 🌱 I'm currently learning
 
--  Docker & Kubernetes
--  Angular
+-  AI (SD, LLM)
+-  React Native
 
 ## 💼 Technical Skills
 
